@@ -86,6 +86,7 @@ const MODEL_MAPPING = {
   'm3': 'minimaxai/minimax-m3',
   'step-3.5-flash': 'stepfun-ai/step-3.5-flash',
   'step-3.7-flash': 'stepfun-ai/step-3.7-flash'
+  'glm-5.3': 'z-ai/glm-5.3'
 };
 
 // Default model used when an unrecognized alias is requested.
