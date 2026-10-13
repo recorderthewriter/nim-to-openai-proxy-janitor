@@ -86,12 +86,20 @@ const MODEL_MAPPING = {
   'm3': 'minimaxai/minimax-m3',
    'step-3.5-flash': 'stepfun-ai/step-3.5-flash',
   'step-3.7-flash': 'stepfun-ai/step-3.7-flash',
-    'glm-5.3': 'z-ai/glm-5.3',
+      'glm-5.3': 'z-ai/glm-5.3',
   'z-ai/glm-5.3': 'z-ai/glm-5.3',
+
   'nemotron-3-super-120b-a12b': 'nvidia/nemotron-3-super-120b-a12b',
+  'nvidia/nemotron-3-super-120b-a12b': 'nvidia/nemotron-3-super-120b-a12b',
+
   'nemotron-3-ultra-550b-a55b': 'nvidia/nemotron-3-ultra-550b-a55b',
+  'nvidia/nemotron-3-ultra-550b-a55b': 'nvidia/nemotron-3-ultra-550b-a55b',
+
   'kimi-k3': 'moonshotai/kimi-k3',
-  'glm-5.3-flash': 'z-ai/glm-5.3-flash'
+  'moonshotai/kimi-k3': 'moonshotai/kimi-k3',
+
+  'glm-5.3-flash': 'z-ai/glm-5.3-flash',
+  'z-ai/glm-5.3-flash': 'z-ai/glm-5.3-flash'
 };
 
 // Default model used when an unrecognized alias is requested.
