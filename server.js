@@ -109,7 +109,11 @@ const MODEL_MAPPING = {
   'moonshotai/kimi-k3': 'moonshotai/kimi-k2.6',
 
   'glm-5.3-flash': 'z-ai/glm-5.3-flash',
-  'z-ai/glm-5.3-flash': 'z-ai/glm-5.3-flash'
+  'z-ai/glm-5.3-flash': 'z-ai/glm-5.3-flash',
+
+  // DeepSeek V4.1 Flash (NVIDIA NIM).
+  'deepseek-v4.1-flash': 'deepseek-ai/deepseek-v4.1-flash',
+  'deepseek-ai/deepseek-v4.1-flash': 'deepseek-ai/deepseek-v4.1-flash'
 };
 
 // Default model used when an unrecognized alias is requested.
